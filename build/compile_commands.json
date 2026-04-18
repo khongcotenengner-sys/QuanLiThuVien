@@ -1,0 +1,26 @@
+[
+{
+  "directory": "E:/QuanLiThuVien/build",
+  "command": "F:\\mingw64\\bin\\g++.exe  @CMakeFiles/LibraryManager.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\LibraryManager.dir\\src\\main.cpp.obj -c E:\\QuanLiThuVien\\QuanLiThuVien\\src\\main.cpp",
+  "file": "E:/QuanLiThuVien/QuanLiThuVien/src/main.cpp",
+  "output": "CMakeFiles/LibraryManager.dir/src/main.cpp.obj"
+},
+{
+  "directory": "E:/QuanLiThuVien/build",
+  "command": "F:\\mingw64\\bin\\g++.exe  @CMakeFiles/LibraryManager.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\LibraryManager.dir\\src\\core\\Library.cpp.obj -c E:\\QuanLiThuVien\\QuanLiThuVien\\src\\core\\Library.cpp",
+  "file": "E:/QuanLiThuVien/QuanLiThuVien/src/core/Library.cpp",
+  "output": "CMakeFiles/LibraryManager.dir/src/core/Library.cpp.obj"
+},
+{
+  "directory": "E:/QuanLiThuVien/build",
+  "command": "F:\\mingw64\\bin\\g++.exe  @CMakeFiles/LibraryManager.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\LibraryManager.dir\\src\\storage\\CsvStorage.cpp.obj -c E:\\QuanLiThuVien\\QuanLiThuVien\\src\\storage\\CsvStorage.cpp",
+  "file": "E:/QuanLiThuVien/QuanLiThuVien/src/storage/CsvStorage.cpp",
+  "output": "CMakeFiles/LibraryManager.dir/src/storage/CsvStorage.cpp.obj"
+},
+{
+  "directory": "E:/QuanLiThuVien/build",
+  "command": "F:\\mingw64\\bin\\g++.exe  @CMakeFiles/LibraryManager.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\LibraryManager.dir\\src\\ui\\Menu.cpp.obj -c E:\\QuanLiThuVien\\QuanLiThuVien\\src\\ui\\Menu.cpp",
+  "file": "E:/QuanLiThuVien/QuanLiThuVien/src/ui/Menu.cpp",
+  "output": "CMakeFiles/LibraryManager.dir/src/ui/Menu.cpp.obj"
+}
+]

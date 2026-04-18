@@ -1,0 +1,2 @@
+id;readerId;bookId;borrowDate;returnDate;isReturned
+B001;A01;B001;12/3/2000;14/2/2001;1
